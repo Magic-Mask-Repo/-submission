@@ -18,9 +18,6 @@ We want to make sure that there are no dangerous modules on the Alt-Repo. Please
 
 It is worth noting that the final approval decision comes from our moderators. If they do not see your module as being fit for the Alt-Repo, they have the choice to deny it. However, they are encouraged to stay unbaised when approving or rejecting modules.
 
-# Migrating  Repositories
-We have an internal (but publicly accessible) tool that makes migrating repositories to the Alt-Repo easy. Moderators should use [mmar-migrate](https://github.com/Magisk-Modules-Alt-Repo/mmar-migrate) (Magisk-Module-Alt-Repo Migrate) to migrate existing repositories to the Alt-Repo.
-
 Here is an example use case for this tool:
 
 1. User A creates an issue titled `[Module] My Custom Module`.
@@ -57,6 +54,4 @@ If you are interested in becoming a collaborator, please make an issue on this r
 # Contact
 If you need assistance, feel free to contact any of our Alt-Repo moderators through email or Telegram. If you need direct support, I am always available in a timely manner.
 
-* Telegram: https://t.me/tytydraco
-* Email: tylernij@gmail.com
-* XDA: tytydraco
+* Telegram: https://t.me/joinchat/uj_Gjc2eGt1mMzY0
